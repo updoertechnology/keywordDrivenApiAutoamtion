@@ -1,0 +1,1 @@
+{"timestamp":"2022-02-01T05:20:12.308+0000","status":500,"error":"Internal Server Error","message":"To number: +9175318042222, is not a mobile number","path":"/user/requestOTP"} 
